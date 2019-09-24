@@ -26,4 +26,4 @@ This should be up in 30 seconds or so.
 ### Start the PingDirectory console
 If you want to look around configuration or edit schema, the PingDirectory can be useful.
 
-`docker-compose up pingdataconsole`
+`docker-compose up -d pingdataconsole`
